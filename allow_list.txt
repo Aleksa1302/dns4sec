@@ -1,4 +1,3 @@
-dns4sec.com
-*.dns4sec.com
-eyecay.xyz
-*.eyecay.xyz
+@@||dns4sec.com
+@@||eyecay.xyz
+
